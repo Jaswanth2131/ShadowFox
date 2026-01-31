@@ -1,0 +1,20 @@
+
+--- Linear Regression Performance ---
+MSE: 31.4540
+RMSE: 5.6084
+R2 Score: 0.6271
+
+--- Random Forest Performance ---
+MSE: 28.6149
+RMSE: 5.3493
+R2 Score: 0.6607
+
+--- Linear Regression Performance ---
+MSE: 31.4540
+RMSE: 5.6084
+R2 Score: 0.6271
+
+--- Random Forest Performance ---
+MSE: 28.6149
+RMSE: 5.3493
+R2 Score: 0.6607
